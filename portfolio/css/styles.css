@@ -32,6 +32,7 @@ nav{
   z-index: 998;
   transition: all 0.3s ease;
   font-family: 'Ubuntu', sans-serif;
+  background-color: ghostwhite;
 }
 nav.sticky{
   background: #4070f4;
@@ -408,7 +409,6 @@ body .container-form{
   font-size: 14px;
   color: #afafb6;
 }
-
 
 .container-form .content .right-side{
   width: 75%;
